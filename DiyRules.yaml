@@ -19,7 +19,7 @@ payload:
   - DOMAIN-SUFFIX,trafficmanager.net
   - DOMAIN-SUFFIX,login.live.com
   - DOMAIN-SUFFIX,microsoftapp.net
-  - DOMAIN-SUFFIX,cloudfare.com
+  - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,stripe.com
   - DOMAIN-SUFFIX,serv00.com
   - DOMAIN-SUFFIX,adtidy.org
