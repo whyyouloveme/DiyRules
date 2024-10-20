@@ -9,29 +9,18 @@ payload:
 - DOMAIN-SUFFIX,pddpic.com
 - DOMAIN-SUFFIX,h3c.com
 - DOMAIN-SUFFIX,zdming.com
-- DOMAIN-SUFFIX,visualstudio.com
 - DOMAIN-SUFFIX,pinduoduo.net
 - DOMAIN-SUFFIX,ccb.com
-- DOMAIN-SUFFIX,microsoft.com
 - DOMAIN-SUFFIX,akamaized.net
-- DOMAIN-SUFFIX,microsoftonline.com
 - DOMAIN-SUFFIX,trafficmanager.net
-- DOMAIN-SUFFIX,login.live.com
-- DOMAIN-SUFFIX,microsoftapp.net
 - DOMAIN-SUFFIX,cloudflare.com
 - DOMAIN-SUFFIX,cloudflarestream.com
 - DOMAIN-SUFFIX,stripe.com
 - DOMAIN-SUFFIX,adtidy.org
-- DOMAIN-SUFFIX,firefox.com
 - DOMAIN-SUFFIX,mozilla.com
 - DOMAIN-SUFFIX,s1.hdslb.com.w.kunlunar.com
 - DOMAIN-SUFFIX,bsg.w.bilicdn1.com
 - DOMAIN-SUFFIX,alibabachengdun.com
-- DOMAIN-SUFFIX,bing.com
-- DOMAIN-SUFFIX,bing.net
-- DOMAIN-SUFFIX,onedrive.com
-- DOMAIN-SUFFIX,aka.ms
-- DOMAIN-SUFFIX,akadns.net
 
 
 
