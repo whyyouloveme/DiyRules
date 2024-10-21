@@ -1,26 +1,17 @@
 payload:
 
 #     自己增加的规则
-- DOMAIN-SUFFIX,goofish.com
 - DOMAIN-SUFFIX,qmail.com
 - DOMAIN-SUFFIX,tencentmusic.com
 - DOMAIN-SUFFIX,weixinbrige.com
-- DOMAIN-SUFFIX,jingxi.com
-- DOMAIN-SUFFIX,pddpic.com
 - DOMAIN-SUFFIX,h3c.com
 - DOMAIN-SUFFIX,zdming.com
-- DOMAIN-SUFFIX,pinduoduo.net
-- DOMAIN-SUFFIX,ccb.com
 - DOMAIN-SUFFIX,trafficmanager.net
-- DOMAIN-SUFFIX,cloudflarestream.com
-- DOMAIN-SUFFIX,stripe.com
 - DOMAIN-SUFFIX,adtidy.org
 - DOMAIN-SUFFIX,firefox.com
 - DOMAIN-SUFFIX,mozilla.com
 - DOMAIN-SUFFIX,mozilla.net
 - DOMAIN-SUFFIX,mozilla.org
-- DOMAIN-SUFFIX,s1.hdslb.com.w.kunlunar.com
-- DOMAIN-SUFFIX,bsg.w.bilicdn1.com
 - DOMAIN-SUFFIX,alibabachengdun.com
 
 
