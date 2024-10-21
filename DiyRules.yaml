@@ -12,15 +12,18 @@ payload:
 - DOMAIN-SUFFIX,pinduoduo.net
 - DOMAIN-SUFFIX,ccb.com
 - DOMAIN-SUFFIX,trafficmanager.net
-- DOMAIN-SUFFIX,cloudflare.com
 - DOMAIN-SUFFIX,cloudflarestream.com
 - DOMAIN-SUFFIX,stripe.com
 - DOMAIN-SUFFIX,adtidy.org
 - DOMAIN-SUFFIX,firefox.com
 - DOMAIN-SUFFIX,mozilla.com
+- DOMAIN-SUFFIX,mozilla.net
+- DOMAIN-SUFFIX,mozilla.org
 - DOMAIN-SUFFIX,s1.hdslb.com.w.kunlunar.com
 - DOMAIN-SUFFIX,bsg.w.bilicdn1.com
 - DOMAIN-SUFFIX,alibabachengdun.com
+- DOMAIN-SUFFIX,metacubex.one
+
 
 
 
