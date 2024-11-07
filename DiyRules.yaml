@@ -1,6 +1,7 @@
 payload:
 
 #     自己增加的规则
+- DOMAIN-SUFFIX,ea.com
 - DOMAIN-SUFFIX,qmail.com
 - DOMAIN-SUFFIX,tencentmusic.com
 - DOMAIN-SUFFIX,weixinbrige.com
