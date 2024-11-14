@@ -1,1 +1,7 @@
-
+payload:
+#     Spotify 广告
+-  DOMAIN,securepubads.g.doubleclick.net
+#     Google 弹窗 
+-  DOMAIN,www.googleadservices.com
+#     Edge 广告
+-  DOMAIN,ntp.msn.com
