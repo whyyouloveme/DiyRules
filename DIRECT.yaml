@@ -9,10 +9,6 @@ payload:
 - DOMAIN-SUFFIX,zdming.com
 - DOMAIN-SUFFIX,trafficmanager.net
 - DOMAIN-SUFFIX,adtidy.org
-- DOMAIN-SUFFIX,firefox.com
-- DOMAIN-SUFFIX,mozilla.com
-- DOMAIN-SUFFIX,mozilla.net
-- DOMAIN-SUFFIX,mozilla.org
 - DOMAIN-SUFFIX,alibabachengdun.com
 
 #      Microsofa
