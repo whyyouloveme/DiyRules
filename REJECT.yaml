@@ -1,6 +1,6 @@
 payload:
 #     Spotify 广告
--  DOMAIN,securepubads.g.doubleclick.net
+- DOMAIN-SUFFIX,doubleclick.net
 #     Google 弹窗 
 -  DOMAIN,www.googleadservices.com
 #     Edge 广告
