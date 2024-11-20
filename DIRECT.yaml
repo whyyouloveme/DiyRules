@@ -1,6 +1,7 @@
 payload:
 
 #     自己增加的规则
+- DOMAIN,i.scdn.co
 - DOMAIN-SUFFIX,ea.com
 - DOMAIN-SUFFIX,h3c.com
 - DOMAIN-SUFFIX,bing.com
@@ -15,8 +16,7 @@ payload:
 - DOMAIN-SUFFIX,live.com
 - DOMAIN-SUFFIX,office365.com
 - DOMAIN-SUFFIX,office.net
-- DOMAIN,i.scdn.co
- 
+- DOMAIN-SUFFIX,msauth.net
 
 
 
