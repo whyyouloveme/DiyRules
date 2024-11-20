@@ -1,6 +1,6 @@
 payload:
 
-#     自己增加的规则
+#  Microsoft
 - DOMAIN,i.scdn.co
 - DOMAIN-SUFFIX,ea.com
 - DOMAIN-SUFFIX,h3c.com
@@ -17,6 +17,11 @@ payload:
 - DOMAIN-SUFFIX,office365.com
 - DOMAIN-SUFFIX,office.net
 - DOMAIN-SUFFIX,msauth.net
+- DOMAIN-SUFFIX,bing.net
 
-
-
+- DOMAIN-SUFFIX,s-microsoft.com
+- DOMAIN-SUFFIX,akamaized.net
+- DOMAIN-SUFFIX,gfx.ms
+- DOMAIN-SUFFIX,msauth.net
+- DOMAIN-SUFFIX,office.net
+- DOMAIN-SUFFIX,msauth.net
